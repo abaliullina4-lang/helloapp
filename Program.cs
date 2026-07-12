@@ -1,12 +1,12 @@
 ﻿class Program
 {
-    static void WriteHello()
+    static void GreetWhite()
     {
-        Console.WriteLine("hello");
+        Console.WriteLine("hello white");
     }
 
     static void Main()
     {
-        WriteHello();
+        
     }
 }
