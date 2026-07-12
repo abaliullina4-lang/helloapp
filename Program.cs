@@ -13,5 +13,6 @@
     static void Main()
     {
         WriteHello();
+        GreetBlack();
     }
 }
