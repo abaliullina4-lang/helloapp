@@ -2,7 +2,7 @@
 {
     static void WriteHello()
     {
-        Console.WriteLine("hello");
+        Console.WriteLine("hello everyone");
     }
 
     static void Main()
